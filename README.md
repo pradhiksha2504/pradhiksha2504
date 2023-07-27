@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @pradhiksha2504
+- 👀 I’m interested in developing stuffs...
+- 🌱 I’m currently learning Flutter for app development...
+- 📫 You can reach me through LinkedIn>>link in my profile ...
+
+<!---
+pradhiksha2504/pradhiksha2504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
