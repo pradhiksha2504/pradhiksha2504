@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">From 'Hello, World!' to mastering full-stack, my coding journey is a testament to continuous growth and innovation.</p>
+<p align="left">From 'Hello, World!' to mastering DSA, my coding journey is a testament to continuous growth and innovation.</p>
 
 ###
 
