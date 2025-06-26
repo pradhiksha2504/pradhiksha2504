@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Pradhiksha K S</h1>
 <p align="center">
-  <em>💡 Creative Technologist | 🧠 Problem Solver | 💻 Aspiring Backend Engineer</em><br>
+  <em>💡 Creative Technologist | 🧠 Problem Solver | 💻 Aspiring Software Engineer</em><br>
   <em>B.E. CSE @ Rathinam Technical Campus (2021–2025)</em>
 </p>
 
