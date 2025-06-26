@@ -32,17 +32,7 @@
 
 ---
 
-### 📌 Noteworthy Projects
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🎯 [**Dynamic Network Graph Tool**](https://github.com/pradhiksha2504) | HTML, CSS, JS, FastAPI, PSQL | Upload and visualize CSVs as node-edge networks using Highcharts |
-| 😊 **Emotion Detector with CNN** | Python, Deep Learning | Real-time emotion recognition using CNN with 50%+ accuracy |
-| 🧭 **Career Match Web App** | HTML, CSS, JS | Recommends careers based on RIASEC personality analysis |
-
-> 🔍 Want to see more? Check my pinned repos below! 👇
-
----
 
 ### 🏆 Achievements & Certifications
 
